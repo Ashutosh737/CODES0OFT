@@ -1,4 +1,4 @@
-# CODES0OFT JAVA DEVELOPMENT INTERNSHIP
+# CODSOFT JAVA DEVELOPMENT INTERNSHIP
 Welcome to the my Java Development Internship repository at CodSoft! This repository tracks my progress and tasks as I advance through my internship in Java development.
 
 Tasks Overview:
